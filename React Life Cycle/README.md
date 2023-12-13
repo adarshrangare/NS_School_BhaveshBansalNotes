@@ -42,6 +42,9 @@ This method is called before the component is removed from the DOM.
 
 Here is Diagram We can refer for Better Understanding: https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/
 
+
+React Lifecycle Methods diagram tweeted by Dan Abramov : https://twitter.com/dan_abramov/status/981712092611989509/photo/1
+
 ---
 ```
 import React, { Component } from "react";
